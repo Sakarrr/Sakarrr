@@ -1,12 +1,11 @@
 ### Hi there 👋
 
 # ℹ️ GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakarrr&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
- <img src=https://github-readme-stats.vercel.app/api?username=Sakarrr&show_icons=true alt=rahuldkjain />
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=asheshmagar&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+ <img src=https://github-readme-stats.vercel.app/api?username=Sakarrr&show_icons=true alt=rahuldkjain />
+ 
 [![](https://visitcount.itsvg.in/api?id=Sakarrr&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!--
