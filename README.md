@@ -7,6 +7,10 @@
 
 [![](https://visitcount.itsvg.in/api?id=Sakarrr&icon=0&color=0)](https://visitcount.itsvg.in)
 
+---
+
+ <img src=https://github-readme-stats.vercel.app/api?username=Sakarrr&show_icons=true alt=sakarshrestha />
+
 <!--
 **Sakarrr/Sakarrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
