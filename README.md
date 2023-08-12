@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 # ℹ️ GitHub Stats:
-<a href="https://ra1nbow.xyz?ref=github">
+<a href="#">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Sakarrr&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21"/>  
 </a>
-<a href="https://ra1nbow.xyz?ref=github">
+<a href="#">
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakarrr&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
 </a>
 
