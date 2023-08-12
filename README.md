@@ -10,9 +10,9 @@
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakarrr&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
 </a>
 
-<a href="#" align="center">
+<p align="center">
   <img height="137px" src="https://streak-stats.demolab.com/?user=Sakarrr" />
-</a>
+</p>
 
 
 
