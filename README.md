@@ -16,12 +16,6 @@
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakarrr&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
 </a>
 
-<p align="center">
-  <img height="137px" src="https://streak-stats.demolab.com/?user=Sakarrr" />
-</p>
-
-
-
 <!--
 **Sakarrr/Sakarrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
