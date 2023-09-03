@@ -1,10 +1,12 @@
 <h1 align="center"> Hi there 👋 I'm Sakar 😎 </h1>
 
-<a href="#" align="center">
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=Sakarrr alt=sakarshrestha /> </p>
+
+<p align="center">
+<a href="#">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakarrr&theme=monokai"/>  
 </a>
-
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=Sakarrr alt=sakarshrestha /> </p>
+</p>
 
 # ℹ️ GitHub Stats:
 <a href="#">
