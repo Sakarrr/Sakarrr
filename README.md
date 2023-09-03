@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 I'm Sakar 😎 </h1>
 
-<img src=http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakarrr&theme=monokai alt=sakarshrestha />
+<a href=http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakarrr&theme=monokai alt=sakarshrestha />
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Sakarrr alt=sakarshrestha /> </p>
 
