@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakar Shrestha</h1>
-<h3 align="center">A passionate wannabe JavaScript developer from Nepal, currently worked 4 years as a WordPress Developer.</h3>
+<h3 align="center">A dedicated developer from Nepal, currently employed as a WordPress Developer, seeking to transition into a Frontend Development position.</h3>
 
 - 🌱 I’m currently learning **JavaScript frameworks & Front-End development**
 
