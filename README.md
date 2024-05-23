@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sakar Shrestha</h1>
 <h3 align="center">A dedicated developer from Nepal, currently employed as a WordPress Developer, seeking to transition into a Frontend Development position.</h3>
 
-- 🌱 I’m currently learning **JavaScript frameworks & Front-End development**
+- 🌱 I’m currently learning **JavaScript frameworks >> REACT JS**
 
 - 📫 How to reach me **ctha.sakar@gmail.com**
 
