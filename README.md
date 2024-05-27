@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakar Shrestha</h1>
-<h3 align="center">A dedicated developer from Nepal, currently employed as a WordPress Developer, seeking to transition into a Frontend Development position.</h3>
+<h3 align="center">Passionate Developer with over 3 years of experience in WordPress theme and plugin development. Proficient in CSS, Sass, PHP, JavaScript, TypeScript, and React. Adept at creating high-quality, user-friendly interfaces and committed to continuous learning. Seeking to leverage my expertise in a challenging React Developer role to contribute to innovative web projects and further hone my skills.</h3>
 
 - 🌱 I’m currently learning **JavaScript frameworks >> REACT JS**
 
