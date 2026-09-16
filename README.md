@@ -40,4 +40,10 @@ Lately, I've also been experimenting with AI agents and LLMs, mostly out of curi
     /></a>
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakarrr&theme=2077)
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakarrr&theme=2077"
+    width="100%"
+    alt="Top languages"
+  />
+</p>
